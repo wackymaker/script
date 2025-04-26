@@ -1,0 +1,2 @@
+client use powershell.exe -ExecutionPolicy Bypass -File .\vnc-server.ps1 -c2IP 192.168.174.129
+server use python3 server.py
